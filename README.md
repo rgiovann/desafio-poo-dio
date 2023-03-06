@@ -150,4 +150,4 @@ Se possível:<br>
 
 Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
-Code modified by [rgiovann](https://github/rgiovann "rgiovann").
+Code modified by [rgiovann](https://github.com/rgiovann/  "rgiovann").
